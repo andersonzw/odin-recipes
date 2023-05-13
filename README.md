@@ -1,1 +1,1 @@
-# odin-recipes
+Introductory website using Odin for HTML
